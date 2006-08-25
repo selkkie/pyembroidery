@@ -1,3 +1,16 @@
+# PyEmbroidery
+#
+# wxPython program for viewing (and eventually editing and digitizing)
+# embroidery designs for use on home sewing machines.
+#
+# Created by Jackson Yee (jackson.yee@gmail.com)
+# Project located at http://pyembroidery.googlecode.com/
+#
+# All code here is released under the GPL version 2 at
+# http://www.gnu.org/copyleft/gpl.html
+#
+# Enjoy what's here so far, and send any bug fixes back to me!
+
 #!/usr/bin/python
 
 import sys
