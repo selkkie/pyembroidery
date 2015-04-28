@@ -1,0 +1,3 @@
+This is a program that I'm writing for my wife since she's trying to start an embroidery business and the commerical digitizing programs are at least a couple of hundred dollars (and more). Right now, it reads and writes Tajima format embroidery files, and I'll add more as I reverse engineer more formats.
+
+If someone more knowledgable than myself about programming a picture to embroidery stitch generator would care to help me, I would greatly appreciate it.
